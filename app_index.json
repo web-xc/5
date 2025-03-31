@@ -1,4 +1,4 @@
-export const appListIndex = [
+[
     {
         name: "当贝助手_3.5.1",
         iconUrl: "http://d.djdl.xyz/uploads/images/bfd4dc69a414b3d139a1a2f2f291be44.png",
@@ -45,6 +45,6 @@ export const appListIndex = [
         "name": "乐播投屏 TV 版",
         "iconUrl": "http://d.djdl.xyz/uploads/images/811a7ee63ecb60af1615f81c9759f638.png",
         "category": "投屏软件 20.16M",
-        "downloadUrl": "images/0b8f2a4c1e3d4f7a9b5c6d8e2f3e4b5f.png",
+        "downloadUrl": "http://d.djdl.xyz/uploads/images/811a7ee63ecb60af1615f81c9759f638.png"
     }
 ]
