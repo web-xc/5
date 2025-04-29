@@ -1,5 +1,89 @@
 [
     {
+        "name": "车机市场",
+        "iconUrl": "https://app.webxc.eu.org/images/8d819acb857fb2ce5c97f689502ec859.png",
+        "category": "工具",
+        "downloadUrl": "https://app.webxc.eu.org/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA_1.0.apk"
+    },
+    {
+        "name": "Via浏览器",
+        "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_12008574_1740901446/256",
+        "category": "新闻",
+        "downloadUrl": "https://dl-t2.coolapkmarket.com/down/apk_upload/2025/0416/coolapk-via-v6.4.0-14736-o_1ioudcp4kv4u15m81i941eu81eue13-uid-441319.apk?t=1745066061&sign=6e6f6e59bd223c7f0b314f5a5f98c205"
+    },
+    {
+        "name": "君用AutoPlay",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/6e530487d6f61893389d08843bac5f69.png",
+        "category": "音乐",
+        "downloadUrl": "http://wl.aaabbbb.com/down.php/30c3c3c578426a5e74bef6755746c7c1.apk"
+    },
+    {
+        "name": "CarLife3.0修改版",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/aa80bf389767b42d0b7aa62643524e81.jpg",
+        "category": "工具",
+        "downloadUrl": "http://jjj.aaaabbbb.top/down.php/d9bfd6a5e1c53a59bafa0b3111d5d720.apk"
+    },
+    {
+        "name": "高德地图7.1",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/767388b8be08499db5b6466ce5a7e979.png",
+        "category": "工具",
+        "downloadUrl": "http://jjj.aaaabbbb.top/down.php/0ae6c486fbfe1e3d57426acc17d9f52f.apk"
+    },
+    {
+        "name": "网易云音乐",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/a67e147c0f807121275a1dd3ad4e7adf.png",
+        "category": "新闻",
+        "downloadUrl": "http://jjj.aaaabbbb.top/down.php/1f14fec4808b02de5c5057817c96a4e2.apk"
+    },
+    {
+        "name": "QQ音乐",
+        "iconUrl": "https://pp.myapp.com/ma_icon/0/icon_6259_1744875066/256",
+        "category": "音乐",
+        "downloadUrl": "http://jjj.aaaabbbb.top/down.php/119745cdfd9c9f49472ccebcda40bcd2.apk"
+    },
+    {
+        "name": "酷我音乐",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/8c5e824e9a10966597be59f6306b17be.jpg",
+        "category": "工具",
+        "downloadUrl": "http://jjj.aaaabbbb.top/down.php/2b095ea396e474bee67dc0f6b7d072d9.apk"
+    },
+    {
+        "name": "原生设置",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/2b4e25e61c640e3d1335777dc26285e3.png",
+        "category": "工具",
+        "downloadUrl": "http://jjj.aaaabbbb.top/down.php/3951492b96e27a41b0370ee09fb6572f.apk"
+    },
+    {
+        "name": "MT管理器",
+        "iconUrl": "https://mt2.cn/logo.png",
+        "category": "音乐",
+        "downloadUrl": "https://file.market.xiaomi.com/download/AppStore/0b3b3dd8db3d947809f19efdc57a4992ec0e7ac46/MT2.18.1.apk"
+    },
+    {
+        "name": "系统程序卸载",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/689182cb6b97e1a29b44b69483440bba.png",
+        "category": "音乐",
+        "downloadUrl": "http://wl.aaabbbb.com/down.php/b66a28c55b4bc5b249da4585c0fbb4ca.apk"
+    },
+    {
+        "name": "车机管家",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/4de3edc47229e1b2081021df7d655753.png",
+        "category": "工具软件",
+        "downloadUrl": "http://wl.aaabbbb.com/down.php/340d692d2043ca6be9828208b9cf9ed8.apk"
+    },
+    {
+        "name": "高德极狐T5覆盖版7.5自启悬浮飞屏",
+        "iconUrl": "http://d.djdl.xyz/uploads/images/767388b8be08499db5b6466ce5a7e979.png",
+        "category": "工具软件",
+        "downloadUrl": "http://wl.aaabbbb.com/down.php/fc4cd07e927547cd30c1a656150e0693.apk"
+    },
+    {
+        "name": "君用AutoPlay",
+        "iconUrl": "https://app.webxc.eu.org/images/8d819acb857fb2ce5c97f689502ec859.png",
+        "category": "工具软件",
+        "downloadUrl": "http://wl.aaabbbb.com/down.php/30c3c3c578426a5e74bef6755746c7c1.apk"
+    },
+    {
         "name": "CarPlus车机版",
         "iconUrl": "http://d.djdl.xyz/uploads/images/2b4e25e61c640e3d1335777dc26285e3.png",
         "category": "投屏软件 20.98M",
